@@ -8,3 +8,6 @@ Usage:
 3. Wait until it prints that EOS is now disables
 4. Keep the tool open as long and you play VRChat, it will auto close and enable EOS again if you close VRChat
 5. Done
+
+Proof of working:
+https://cdn.discordapp.com/attachments/1120662608018682019/1123611177591767050/image.png
