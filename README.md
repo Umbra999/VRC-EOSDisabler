@@ -1,6 +1,6 @@
 # VRC-EOSDisabler
 
-This is a simple tool to disable VRChats (very bad implemented) version of Easy Anti Cheat. With this the telemtry/analytics are fully disabled, you can use this for privacy or as addition for Cheats to prevent possible Bans
+This is a simple tool to disable VRChats (very bad implemented) version of Easy Anti Cheat. With this the telemtry/analytics are fully disabled, you can use this for privacy or as addition for Cheats to prevent possible Bans. This tool is fully safe and not touching EAC at all. it simply blocks the connection via hosts file
 
 Usage:
 1. Start EOSDisabler.exe
