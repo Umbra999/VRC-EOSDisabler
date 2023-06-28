@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiFBT", "VRC-EOSDisabler\EOSDisabler.csproj", "{0C68A3A6-18EB-4A63-8268-1AA73297919E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C68A3A6-18EB-4A63-8268-1AA73297919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C68A3A6-18EB-4A63-8268-1AA73297919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C68A3A6-18EB-4A63-8268-1AA73297919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C68A3A6-18EB-4A63-8268-1AA73297919E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9849FBD8-7C68-4473-B968-7523E6E5D5F0}
+	EndGlobalSection
+EndGlobal
