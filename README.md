@@ -5,7 +5,7 @@ This is a simple tool to disable VRChats (very bad implemented) version of Easy 
 Usage:
 1. Start EOSDisabler.exe
 2. Start VRChat 
-3. Wait until it prints that EOS is now disables
+3. Wait until it prints that EOS connection is now blocked
 4. Keep the tool open as long and you play VRChat, it will auto close and enable EOS again if you close VRChat
 5. Done
 
